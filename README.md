@@ -7,7 +7,7 @@ but this time let's make it posh and fix all the issues of the previous designs.
 >  - We can use some pogo pin connectors.
 >  - Fine.
 
-![MarvinPic](/Marvin1BackMount2.png)
+![MarvinPic](/MarvinFrontRender1.png)
 
 # Specs:
 - 65x100mm 1.6mm thick PCB
