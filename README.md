@@ -19,7 +19,7 @@ but this time let's make it posh and fix all the issues of the previous designs.
 - LSM6DSOTR IMU in sensor fusion configuration with LIS3MDLTR magnetometer
 - MS5611 pressure sensor, barometric altitude and BMP280 as a redundancy or the budget friendly option
 - Data logging to a 16Mbit flash memory chip and/or micro SD card
-- 32 free MCU breakout extension pins
+- 32 free GPIO
 - Short time of black box data logging after an unexpected power outage 
 - The coolest debug connector ever
 - Default 433Mhz Ra-02 radio module (with proper antenna > 4km open space range easily achievable)
@@ -37,6 +37,8 @@ All the schematics and PCB files are available in the repo, but it hasn't flow y
 The software core is developed in a seperate repo, this one is only for the hardware part.
 ```
 > https://github.com/3Fall/MarvinCore_r1
+
+
 
 
 
