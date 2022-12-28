@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "LORA")(type "KiCad")(uri "${KIPRJMOD}/MarvinLib/RA-02_LORA")(options "")(descr ""))
+  (lib (name "SD")(type "KiCad")(uri "${KIPRJMOD}/MarvinLib/ul_MEM2051-00-195-00-A/KiCAD/2022-09-03_13-38-14/footprints.pretty")(options "")(descr ""))
+  (lib (name "FancySwitch")(type "KiCad")(uri "${KIPRJMOD}/MarvinLib/FancySwitch.pretty")(options "")(descr ""))
+  (lib (name "TXB0108")(type "KiCad")(uri "${KIPRJMOD}/MarvinLib/TXB0108RGYR")(options "")(descr ""))
+)

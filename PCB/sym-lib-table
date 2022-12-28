@@ -1,0 +1,12 @@
+(sym_lib_table
+  (lib (name "LIS")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_LIS2MDLTR/KiCAD/2022-08-28_16-15-37/2022-08-28_16-15-37.lib")(options "")(descr ""))
+  (lib (name "LSM")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_LSM6DSRTR/KiCAD/2022-08-28_16-12-27/2022-08-28_16-12-27.lib")(options "")(descr ""))
+  (lib (name "MS56")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_MS561101BA03-50/KiCAD/2022-08-28_15-03-57/2022-08-28_15-03-57.lib")(options "")(descr ""))
+  (lib (name "TF015")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/TF-015/TF-015.lib")(options "")(descr ""))
+  (lib (name "W25Q")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_W25Q16JLSSIG/KiCAD/2022-01-12_20-09-27/2022-01-12_20-09-27.lib")(options "")(descr ""))
+  (lib (name "LSMDSO")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_LSM6DSOTR/KiCAD/2022-09-03_13-29-15/2022-09-03_13-29-15.lib")(options "")(descr ""))
+  (lib (name "LIS3")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_LIS3MDLTR/KiCAD/2022-09-03_13-30-31/2022-09-03_13-30-31.lib")(options "")(descr ""))
+  (lib (name "MEM")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/ul_MEM2051-00-195-00-A/KiCAD/2022-09-03_13-38-14/2022-09-03_13-38-14.lib")(options "")(descr ""))
+  (lib (name "RA 02")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/RA-02_LORA/RA-02_LORA.lib")(options "")(descr ""))
+  (lib (name "TXB0108")(type "Legacy")(uri "${KIPRJMOD}/MarvinLib/TXB0108RGYR/TXB0108RGYR.lib")(options "")(descr ""))
+)

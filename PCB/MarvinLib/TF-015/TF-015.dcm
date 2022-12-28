@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TF-015
+D SD Card connector
+K
+F https://datasheet.lcsc.com/szlcsc/SOFNG-TF-015_C113206.pdf
+$ENDCMP
+#
+#End Doc Library
