@@ -1,4 +1,4 @@
-# Marvin - the ultimate open-source rocket flight computer
+# Marvin - the [soon] ultimate open-source rocket flight computer
 ### Suitable for middle to high power rockets.
 
 >  - Hey, let's take whatever's left of our energy to live, and jam it into another flight computer, 
