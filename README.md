@@ -1,7 +1,7 @@
 # Marvin - the ultimate open-source rocket flight computer
 ### Suitable for middle to high power rockets.
 
->  - Yo, let's take whatever's left of our energy to live, and jam it into another flight computer, 
+>  - Hey, let's take whatever's left of our energy to live, and jam it into another flight computer, 
 but this time let's make it posh and fix all the issues of the previous designs.
 >  - No.
 >  - We can use some pogo pin connectors.
@@ -29,7 +29,7 @@ but this time let's make it posh and fix all the issues of the previous designs.
 
 
 Designed to fly a TVC rocket guided by artificial intelligence.
-All the schematics and PCB files are available in the repo, but it hasn't flow yet. Once Marvin flies (and survives), official version will be released.
+All the schematics and PCB files are available in the repo, but it Marvin flow yet. Once it becomes flight proven, official version will be released.
 
 # Software
 
@@ -39,7 +39,7 @@ The software core is developed in a seperate repo, this one is only for the hard
 > https://github.com/3Fall/MarvinCore_r1
 
 
-
+Co-developed with @Szum123321
 
 
 
