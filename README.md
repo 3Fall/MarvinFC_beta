@@ -38,7 +38,8 @@ All the schematics and PCB files are available in the repo, but it Marvin flow y
 ```
 The software core is developed in a seperate repo, this one is only for the hardware part.
 ```
-> https://github.com/3Fall/MarvinCore_r1
+> https://github.com/3Fall/MarvinCore_r1  
+> https://github.com/3Fall/Marvin_SystemManager_Firmware
 
 
 Co-developed with Szymon Januszek - @Szum123321
