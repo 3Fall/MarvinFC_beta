@@ -39,7 +39,7 @@ The software core is developed in a seperate repo, this one is only for the hard
 > https://github.com/3Fall/MarvinCore_r1
 
 
-Co-developed with @Szum123321
+Co-developed with Szymon Januszek - @Szum123321
 
 
 
