@@ -27,6 +27,8 @@ but this time let's make it posh and fix all the issues of the previous designs.
 
 ## Marvin is currently in testing phase, the schematics will likely change, but the development happens on our private server. Here, every version that gets put into production will be published.
 
+![DevelopmentPic](P1270503.png)
+
 
 Designed to fly a TVC rocket guided by artificial intelligence.
 All the schematics and PCB files are available in the repo, but it Marvin flow yet. Once it becomes flight proven, official version will be released.
