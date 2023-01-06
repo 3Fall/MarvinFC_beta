@@ -31,7 +31,7 @@ but this time let's make it posh and fix all the issues of the previous designs.
 
 
 Designed to fly a TVC rocket guided by artificial intelligence.
-All the schematics and PCB files are available in the repo, but it Marvin flow yet. Once it becomes flight proven, official version will be released.
+All the schematics and PCB files are available in the repo, but Marvin hasn't flown yet. Once it becomes flight proven, official version will be released.
 
 # Software
 
