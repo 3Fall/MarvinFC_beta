@@ -27,6 +27,21 @@ but this time let's make it posh and fix all the issues of the previous designs.
 
 ## Marvin is currently in testing phase, the schematics will likely change, but the development happens on our private server. Here, every version that gets put into production will be published.
 
+# V2 Release:
+- changed the magnetometer connection (now it's interfaced with the MCU directly)
+- changed micro SD slot to one with visible pins
+- fixed the lacking IMU I2C address pin connection (it was left floating in V1)
+- the BMP280 pads were scaled up a bit, previously small enough to cause manufacturing problems with JLCPCB
+- added power pins among the expansion pin deck
+- added thermal relief to ground planes
+- fixed the debug UART RX and TX labels
+- added a buzzer
+- added JST connectors for 3 of 6 PWM channels
+- fixed the power management IC footprint
+- changed the mounting holes to M3
+- changed one of the LDO IC's to a different part
+
+
 ![DevelopmentPic](P1270503.png)
 
 
@@ -36,13 +51,11 @@ All the schematics and PCB files are available in the repo, but Marvin hasn't fl
 # Software
 
 ```
-The software core is developed in a seperate repo, this one is only for the hardware part.
+The software is application specific, and thus not public.
 ```
-> https://github.com/3Fall/MarvinCore_r1  
+Although below is the System Manager Firmware for the advanced power supply functionality.
 > https://github.com/3Fall/Marvin_SystemManager_Firmware
 
-
-Co-developed with Szymon Januszek - @Szum123321
 
 
 
