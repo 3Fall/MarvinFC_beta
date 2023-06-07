@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\Alaneq\Desktop\MARVIN\REV1\PCB\marvin_fc_board.kicad_sch</source>
-    <date>12/28/2022 5:08:15 PM</date>
-    <tool>Eeschema (6.0.10)</tool>
+    <source>/home/szymon/marvin/marvin_fc_board_main/marvin_fc_board.kicad_sch</source>
+    <date>wto, 22 lis 2022, 18:01:44</date>
+    <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Marvin flight controller</title>
@@ -985,7 +985,7 @@
       <tstamps>3f0958bb-668a-4112-b3c3-d3ef491ab9ca</tstamps>
     </comp>
     <comp ref="R10">
-      <value>2137</value>
+      <value>56k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Power supply"/>
@@ -994,7 +994,7 @@
       <tstamps>0b991b5a-8b24-4d4c-b7bb-9e313efc2b01</tstamps>
     </comp>
     <comp ref="R11">
-      <value>42069</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Power supply"/>
@@ -1003,7 +1003,7 @@
       <tstamps>feb776f3-99a1-42c6-a053-67a54cf83983</tstamps>
     </comp>
     <comp ref="R12">
-      <value>?</value>
+      <value>33,2k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Power supply"/>
@@ -1012,7 +1012,7 @@
       <tstamps>1d92ee01-9c60-4a1d-8f0d-754a1cb40cf3</tstamps>
     </comp>
     <comp ref="R13">
-      <value>?</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Power supply"/>
@@ -1021,7 +1021,7 @@
       <tstamps>65ac8f8b-be50-4616-97d0-3bca7786cff7</tstamps>
     </comp>
     <comp ref="R14">
-      <value>2137</value>
+      <value>56k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Power supply"/>
@@ -1030,7 +1030,7 @@
       <tstamps>59c6599e-7ddf-4c71-b0fb-3b17092b62dd</tstamps>
     </comp>
     <comp ref="R15">
-      <value>R</value>
+      <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Power supply"/>
@@ -2676,67 +2676,67 @@
   </libparts>
   <libraries>
     <library logical="Analog_ADC">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Analog_ADC.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Analog_ADC.kicad_sym</uri>
     </library>
     <library logical="Connector">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
     </library>
     <library logical="Connector_Generic">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
     </library>
     <library logical="Device">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
     <library logical="Isolator">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Isolator.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Isolator.kicad_sym</uri>
     </library>
     <library logical="Jumper">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Jumper.kicad_sym</uri>
     </library>
     <library logical="LIS3">
-      <uri>C:\Users\Alaneq\Desktop\MARVIN\REV1\PCB/MarvinLib/ul_LIS3MDLTR/KiCAD/2022-09-03_13-30-31/2022-09-03_13-30-31.lib</uri>
+      <uri>/home/szymon/marvin/marvin_fc_board_main/MarvinLib/ul_LIS3MDLTR/KiCAD/2022-09-03_13-30-31/2022-09-03_13-30-31.lib</uri>
     </library>
     <library logical="LSMDSO">
-      <uri>C:\Users\Alaneq\Desktop\MARVIN\REV1\PCB/MarvinLib/ul_LSM6DSOTR/KiCAD/2022-09-03_13-29-15/2022-09-03_13-29-15.lib</uri>
+      <uri>/home/szymon/marvin/marvin_fc_board_main/MarvinLib/ul_LSM6DSOTR/KiCAD/2022-09-03_13-29-15/2022-09-03_13-29-15.lib</uri>
     </library>
     <library logical="Logic_LevelTranslator">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Logic_LevelTranslator.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Logic_LevelTranslator.kicad_sym</uri>
     </library>
     <library logical="MCU_Microchip_ATtiny">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_Microchip_ATtiny.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//MCU_Microchip_ATtiny.kicad_sym</uri>
     </library>
     <library logical="MCU_ST_STM32F4">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32F4.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//MCU_ST_STM32F4.kicad_sym</uri>
     </library>
     <library logical="MEM">
-      <uri>C:\Users\Alaneq\Desktop\MARVIN\REV1\PCB/MarvinLib/ul_MEM2051-00-195-00-A/KiCAD/2022-09-03_13-38-14/2022-09-03_13-38-14.lib</uri>
+      <uri>/home/szymon/marvin/marvin_fc_board_main/MarvinLib/ul_MEM2051-00-195-00-A/KiCAD/2022-09-03_13-38-14/2022-09-03_13-38-14.lib</uri>
     </library>
     <library logical="RA 02">
-      <uri>C:\Users\Alaneq\Desktop\MARVIN\REV1\PCB/MarvinLib/RA-02_LORA/RA-02_LORA.lib</uri>
+      <uri>/home/szymon/marvin/marvin_fc_board_main/MarvinLib/RA-02_LORA/RA-02_LORA.lib</uri>
     </library>
     <library logical="Regulator_Linear">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Regulator_Linear.kicad_sym</uri>
     </library>
     <library logical="Regulator_Switching">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Regulator_Switching.kicad_sym</uri>
     </library>
     <library logical="Sensor_Pressure">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Sensor_Pressure.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Sensor_Pressure.kicad_sym</uri>
     </library>
     <library logical="Sensor_Temperature">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Sensor_Temperature.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Sensor_Temperature.kicad_sym</uri>
     </library>
     <library logical="Switch">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
     </library>
     <library logical="Transistor_BJT">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
     </library>
     <library logical="Transistor_FET">
-      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
     </library>
     <library logical="W25Q">
-      <uri>C:\Users\Alaneq\Desktop\MARVIN\REV1\PCB/MarvinLib/ul_W25Q16JLSSIG/KiCAD/2022-01-12_20-09-27/2022-01-12_20-09-27.lib</uri>
+      <uri>/home/szymon/marvin/marvin_fc_board_main/MarvinLib/ul_W25Q16JLSSIG/KiCAD/2022-01-12_20-09-27/2022-01-12_20-09-27.lib</uri>
     </library>
   </libraries>
   <nets>
